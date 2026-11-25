@@ -1,0 +1,10 @@
+README_MULAI_DI_ANDROID_STUDIO.md
+app/build.gradle.kts
+app/src/main/AndroidManifest.xml
+app/src/main/java/id/geoexplorer/app/MainActivity.kt
+app/src/main/java/id/geoexplorer/app/core/README.md
+app/src/main/java/id/geoexplorer/app/core/coordinates/IndonesiaUtmZones.kt
+app/src/main/java/id/geoexplorer/app/core/project/ProjectDefinition.kt
+build.gradle.kts
+gradle.properties
+settings.gradle.kts
